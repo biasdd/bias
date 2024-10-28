@@ -7,6 +7,6 @@ Repository for organising BIAS meetings
 | 03 | 31.07.2024 | Katana | Uncertainty Estimation |
 | 04 | 04.09.2024 | Katana | Foundation Models |
 | 05 | 23.10.2024 | Katana | Tools |
-| 06 | **04.12.2024** 18 Uhr| Anvajo | --- |
+| 06 | **04.12.2024**, 18 Uhr| Anvajo | --- |
 
  
