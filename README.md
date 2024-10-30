@@ -33,7 +33,9 @@
 
 *Intention (defined in the first 2 meetings)*
 
-Purpose
+| No. | Termin |
+| --- | --- |
+|Purpose
  welche Anwendungsfälle gibt es
  Networking
  Fragen bei Problemstellungen / andere Ideen bekommen
@@ -43,7 +45,7 @@ Purpose
  zusätzliche Ressourcen aquirieren
  auf Stand der Technik bleiben / Update
  sozialer Austausch mit anderen Nerds
- Übertragung von Forschung in Anwendungen
+ Übertragung von Forschung in Anwendungen | --- |
 
  Success Criteria
  Problempool präsentieren
