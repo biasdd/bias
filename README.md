@@ -14,7 +14,7 @@
 
 *Topics*
 
- | No. | Termin | Ort |
+ | No. | Termin | Zeit |
  | --- | --- | --- |
  | 01| Uncertainty estimation | 31.07.2024 |
  | 02 | Foundation Models | 04.09.2024 |
