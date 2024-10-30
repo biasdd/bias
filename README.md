@@ -28,7 +28,7 @@
  | --- | Heatmaps and methods for visualization | --- |
  | --- | Data management / Data Versioning (Anastasia, Johannes, Jan 25) | --- |
  | --- | CNN versus Transformer (Martin?) | --- |
-| MLOps / Data Versioning | CNN versus Transformer (Martin?) | --- |
+ | --- | MLOps / Data Versioning CNN versus Transformer (Martin?) | --- |
 
  
 
