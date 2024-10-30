@@ -45,7 +45,6 @@
  auf Stand der Technik bleiben / Update
  sozialer Austausch mit anderen Nerds
  Übertragung von Forschung in Anwendungen | 
- 
 Problempool präsentieren
 Wissens Sharing (wer hat was neues)
 Stammtischatmosphäre
