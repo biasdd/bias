@@ -30,16 +30,3 @@
  | --- | CNN versus Transformer (Martin?) | --- |
  | --- | MLOps / Data Versioning CNN versus Transformer (Martin?) | --- |
 
- 
-
- 
-
-
-
-
-
-
-
-  23.10.2024
-![image](https://github.com/user-attachments/assets/7a51e39b-4e0e-4295-9453-f62cb7c5ccbb)
-
