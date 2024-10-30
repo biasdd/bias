@@ -33,10 +33,9 @@
 
 *Intention (defined in the first 2 meetings)*
 
-| No. | Termin |
+| Purpose | Success Criteria |
 | --- | --- |
-|Purpose
- welche Anwendungsfälle gibt es
+| welche Anwendungsfälle gibt es
  Networking
  Fragen bei Problemstellungen / andere Ideen bekommen
  Pitfalls, wann hat was nicht funktioniert
@@ -45,16 +44,15 @@
  zusätzliche Ressourcen aquirieren
  auf Stand der Technik bleiben / Update
  sozialer Austausch mit anderen Nerds
- Übertragung von Forschung in Anwendungen | --- |
-
- Success Criteria
- Problempool präsentieren
+ Übertragung von Forschung in Anwendungen | 
+ 
+Problempool präsentieren
 Wissens Sharing (wer hat was neues)
 Stammtischatmosphäre
 Erst office dann kneipe
 Monatlich, jeder 3te Mittwoch
 Keine online meetings
-Every meeting one take home message
+Every meeting one take home message  |
 
 
 
