@@ -35,23 +35,17 @@
 
 | Purpose | Success Criteria |
 | --- | --- |
-| welche Anwendungsfälle gibt es
- Networking
- Fragen bei Problemstellungen / andere Ideen bekommen
- Pitfalls, wann hat was nicht funktioniert
- Recruiting
- gemeinsame Projekte /Kooperation
- zusätzliche Ressourcen aquirieren
- auf Stand der Technik bleiben / Update
- sozialer Austausch mit anderen Nerds
- Übertragung von Forschung in Anwendungen | 
-Problempool präsentieren
-Wissens Sharing (wer hat was neues)
-Stammtischatmosphäre
-Erst office dann kneipe
-Monatlich, jeder 3te Mittwoch
-Keine online meetings
-Every meeting one take home message  |
+| welche Anwendungsfälle gibt es | Problempool präsentieren |
+ Networking | Wissens Sharing (wer hat was neues) |
+ Fragen bei Problemstellungen / andere Ideen bekommen | Stammtischatmosphäre |
+ Pitfalls, wann hat was nicht funktioniert | Erst office dann kneipe |
+ Recruiting | Monatlich, jeder 3te Mittwoch |
+ gemeinsame Projekte /Kooperation | Keine online meetings |
+ zusätzliche Ressourcen aquirieren | Every meeting one take home message  |
+ auf Stand der Technik bleiben / Update | --- |
+ sozialer Austausch mit anderen Nerds | --- |
+ Übertragung von Forschung in Anwendungen | --- | 
+
 
 
 
