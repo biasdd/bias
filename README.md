@@ -2,7 +2,7 @@
 **Repository for organising BIAS meetings**
 
 
-*Coming up soon*
+**Coming up soon**
 
 Hello together,
 
@@ -18,7 +18,7 @@ Topics:
 - Optimizing inference on resource constrained hardware (Data Analytics Team, anvajo)
 
 
-*Schedule so far*
+**Schedule so far**
 
 | No. | Termin | Ort | Themen |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Topics:
 | 05 | 23.10.2024 | Katana | Tools |
 | 06 | **04.12.2024**| Anvajo | 1. How to bring diagnostics to everyone with deep learning, 2. Optimizing inference on resource constrained hardware |
 
-*Topics collection*
+**Topics collection**
 
  | No. | Termin | Zeit |
  | --- | --- | --- |
@@ -49,7 +49,7 @@ Topics:
  | --- | MLOps / Data Versioning CNN versus Transformer (Martin?) | --- |
 
 
-*Intention of bias (defined in the first 2 meetings)*
+**Intention of bias (defined in the first 2 meetings)**
 
 | Purpose | Success Criteria |
 | --- | --- |
