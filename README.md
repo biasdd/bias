@@ -29,7 +29,7 @@ Topics:
 | 05 | 23.10.2024 | Katana | Tools |
 | 06 | **04.12.2024**| Anvajo | 1. How to bring diagnostics to everyone with deep learning, 2. Optimizing inference on resource constrained hardware |
 
-**Topics collection**
+**Collection of topics**
 
  | No. | Termin | Zeit |
  | --- | --- | --- |
