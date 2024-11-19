@@ -49,7 +49,7 @@ Topics:
  | --- | MLOps / Data Versioning CNN versus Transformer (Martin?) | --- |
 
 
-*Intention (defined in the first 2 meetings)*
+*Intention of bias (defined in the first 2 meetings)*
 
 | Purpose | Success Criteria |
 | --- | --- |
