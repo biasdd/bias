@@ -1,4 +1,4 @@
-# bias
+# bias - Bildanalyse Stammtisch
 **Repository for organising BIAS meetings**
 
 *Schedule*
