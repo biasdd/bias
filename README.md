@@ -8,7 +8,7 @@ Hello together,
 
 thanks to Thomas the next bias will be held at anvajo
 
-When: 4.12. 18:00 - 20:00
+When: 15.01.25 18:00 - 20:00
 Where: anvajo, Zwickauer Str. 46, Dresden
 
 The office is located on the 2nd floor of the "Technologiezentrum / Universelle-Werke" building. You can simply use the green door at the main entrance. Ring the doorbell to get in.
