@@ -6,16 +6,12 @@
 
 Hello together,
 
-thanks to Thomas the next bias will be held at anvajo
-
-When: 15.01.25 18:00 - 20:00
-Where: anvajo, Zwickauer Str. 46, Dresden
-
-The office is located on the 2nd floor of the "Technologiezentrum / Universelle-Werke" building. You can simply use the green door at the main entrance. Ring the doorbell to get in.
+the next meeting is in praparation. Please pencil in the 12.3. as a placehoder for the enxt meeting. Thank you.
+When: 12.03.25 18:00 - 20:00
+Where: tbd
 
 Topics: 
-- How to bring diagnostics to everyone with deep learning + Office tour & Product Demo (Stefan Fraedrich, CEO & Founder of anvajo)
-- Optimizing inference on resource constrained hardware (Data Analytics Team, anvajo)
+- tbd
 
 
 **Schedule so far**
@@ -27,7 +23,8 @@ Topics:
 | 03 | 31.07.2024 | Katana | Uncertainty Estimation |
 | 04 | 04.09.2024 | Katana | Foundation Models |
 | 05 | 23.10.2024 | Katana | Tools |
-| 06 | **04.12.2024**| Anvajo | 1. How to bring diagnostics to everyone with deep learning, 2. Optimizing inference on resource constrained hardware |
+| 06 | 15.01.2025| Anvajo | 1. How to bring diagnostics to everyone with deep learning, 2. Optimizing inference on resource constrained hardware |
+| 07 | **xx.xx.2025**| company tbd | Topic tbd |
 
 **Collection of topics**
 
