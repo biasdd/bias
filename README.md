@@ -6,11 +6,11 @@
 
 Hello together,
 
-the next meeting is in praparation. Please pencil in the 12.3. as a placehoder for the enxt meeting. Thank you.
+the next meeting is in praparation. Please pencil in the 12.3. as a placehoder for the next meeting.
 When: 12.03.25 18:00 - 20:00
 Where: tbd
 
-Topics: 
+Topics:
 - tbd
 
 
