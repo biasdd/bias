@@ -24,7 +24,7 @@ Topics:
 | 04 | 04.09.2024 | Katana | Foundation Models |
 | 05 | 23.10.2024 | Katana | Tools |
 | 06 | 15.01.2025| Anvajo | 1. How to bring diagnostics to everyone with deep learning, 2. Optimizing inference on resource constrained hardware |
-| 07 | **xx.xx.2025**| company tbd | Topic tbd |
+| 07 | **12.03.2025**| Oncoray and HZDR | [All details available here](https://events.hifis.net/event/2248/) |
 
 **Collection of topics**
 
