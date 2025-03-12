@@ -35,6 +35,9 @@ Topics:
  | 03 | What tools do you love or hate to use? Tensorflow, Pytorch, Onnx, Jax, ,.. | 23.10.2024 |
  | 04 | How to bring diagnostics to everyone with deep learning| 04.12.2024 |
  | 04 | Optimizing inference on resource constrained hardware | 04.12.2024 |
+ | --- | Image Analysis in proton therapy  | 12.03.2025 |
+ | --- | SAM2 | 12.03.2025 |
+
  | --- | Out of Distribution (Ulrik, Kristin, Nov/Dez., 24) | --- |
  | --- | Anomaly detection | --- |
  | --- | Inference optimization | --- |
